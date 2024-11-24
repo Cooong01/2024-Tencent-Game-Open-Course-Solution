@@ -15,6 +15,11 @@
 
 使用的UE版本：5.4.4
 
+# 课程作业解决方案目录
+
+- [第一课](https://github.com/Cooong01/2024-Tencent-Game-Open-Course-Solution/blob/master/Solutions/Lesson1.md)
+- [第二课(待更新)](https://github.com/Cooong01/2024-Tencent-Game-Open-Course-Solution/blob/master/Solutions/Lesson2.md)
+
 
 
 
