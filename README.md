@@ -11,14 +11,21 @@
 本仓库用于**自己留档**，以及为同样初学UE的后来者提供一个**基于初学者视角的UE入门路径**。
 
 ---
-# 你可以参考的信息
-
-使用的UE版本：5.4.4
 
 # 课程作业解决方案目录
 
 - [第一课](https://github.com/Cooong01/2024-Tencent-Game-Open-Course-Solution/blob/master/Solutions/Lesson1.md)
 - [第二课(待更新)](https://github.com/Cooong01/2024-Tencent-Game-Open-Course-Solution/blob/master/Solutions/Lesson2.md)
+
+---
+
+# 你可以参考的信息
+
+使用的UE版本：5.4.4
+使用的引擎编译IDE：Visual Studio Community 2022 17.8.6
+使用的游戏开发IDE：Rider 2024.3
+
+
 
 
 
