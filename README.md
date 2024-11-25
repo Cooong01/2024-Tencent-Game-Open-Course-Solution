@@ -21,9 +21,9 @@
 
 # 你可以参考的信息
 
-使用的UE版本：5.4.4
-使用的引擎编译IDE：Visual Studio Community 2022 17.8.6
-使用的游戏开发IDE：Rider 2024.3
+使用的UE版本：5.4.4  
+使用的引擎编译IDE：Visual Studio Community 2022 17.8.6  
+使用的游戏开发IDE：Rider 2024.3  
 
 
 
